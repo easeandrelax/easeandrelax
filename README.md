@@ -1,8 +1,8 @@
-## Hi there 👋 I'm Swathi..
+ Hi there 👋 I'm Swathi..
 
 🔥 About Me
 
-- 🔭 I’m a sophomore at Velammal College of Engineering and Technology 
+- 🔭 I’m currently a sophomore at Velammal College of Engineering and Technology 
 - 🌱 I’m currently learning python , DSA using Java and web development basics 
 - 🤖 Working on an AI model to predict blood sugar levels using retinal images
 - 💡 Love building projects, organizing work in GitHub & Notion
