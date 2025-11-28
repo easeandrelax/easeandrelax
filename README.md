@@ -6,6 +6,8 @@
 - 🌱 I’m currently learning python , DSA using Java and web development basics 
 - 🤖 Working on an AI model to predict blood sugar levels using retinal images
 - 💡 Love building projects, organizing work in GitHub & Notion
--📫 You can reach me through : [swathivenkatesan](https://www.linkedin.com/in/swathi-venkatesan-17ba4a326/)
+- 📫 You can reach me through : [swathivenkatesan](https://www.linkedin.com/in/swathi-venkatesan-17ba4a326/)
+
+
 
 
