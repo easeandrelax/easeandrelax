@@ -2,7 +2,7 @@
 
 🔥 About Me
 
-- 🔭 I’m currently a sophomore at Velammal College of Engineering and Technology 
+- 🔭 I’m a junior at Velammal College of Engineering and Technology 
 - 🌱 I’m currently learning python , DSA using Java and web development basics 
 - 🤖 Working on an AI model to predict blood sugar levels using retinal images
 - 💡 Love building projects, organizing work in GitHub & Notion
